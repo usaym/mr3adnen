@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,beIN SPORTS Full ᴴᴰ 1 MAX
+http://topiptv.net:5890/live/zina/zina/3355.m3u8
+#EXTINF:-1,beIN SPORTS Full ᴴᴰ 2 MAX
+http://topiptv.net:5890/live/zina/zina/9243.m3u8
 #EXTINF:0,BEIN SPORTS HD 1
 http://p5.giffy.be:8080/will2019/will2019/106188
 #EXTINF:0,BEIN SPORTS HD 2
